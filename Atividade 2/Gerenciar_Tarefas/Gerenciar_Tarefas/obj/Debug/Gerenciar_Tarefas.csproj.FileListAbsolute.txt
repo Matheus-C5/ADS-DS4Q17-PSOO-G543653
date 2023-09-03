@@ -1,0 +1,16 @@
+C:\Users\mathe\Downloads\Gerenciar_Tarefas\Gerenciar_Tarefas\bin\Debug\Gerenciar_Tarefas.exe.config
+C:\Users\mathe\Downloads\Gerenciar_Tarefas\Gerenciar_Tarefas\bin\Debug\Gerenciar_Tarefas.exe
+C:\Users\mathe\Downloads\Gerenciar_Tarefas\Gerenciar_Tarefas\bin\Debug\Gerenciar_Tarefas.pdb
+C:\Users\mathe\Downloads\Gerenciar_Tarefas\Gerenciar_Tarefas\obj\Debug\Gerenciar_Tarefas.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\Gerenciar_Tarefas\Gerenciar_Tarefas\obj\Debug\Gerenciar_Tarefas.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\Gerenciar_Tarefas\Gerenciar_Tarefas\obj\Debug\Gerenciar_Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\Gerenciar_Tarefas\Gerenciar_Tarefas\obj\Debug\Gerenciar_Tarefas.exe
+C:\Users\mathe\Downloads\Gerenciar_Tarefas\Gerenciar_Tarefas\obj\Debug\Gerenciar_Tarefas.pdb
+C:\Users\mathe\Downloads\Atividade 3\Gerenciar_Tarefas\Gerenciar_Tarefas\bin\Debug\Gerenciar_Tarefas.exe.config
+C:\Users\mathe\Downloads\Atividade 3\Gerenciar_Tarefas\Gerenciar_Tarefas\bin\Debug\Gerenciar_Tarefas.exe
+C:\Users\mathe\Downloads\Atividade 3\Gerenciar_Tarefas\Gerenciar_Tarefas\bin\Debug\Gerenciar_Tarefas.pdb
+C:\Users\mathe\Downloads\Atividade 3\Gerenciar_Tarefas\Gerenciar_Tarefas\obj\Debug\Gerenciar_Tarefas.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\Atividade 3\Gerenciar_Tarefas\Gerenciar_Tarefas\obj\Debug\Gerenciar_Tarefas.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\Atividade 3\Gerenciar_Tarefas\Gerenciar_Tarefas\obj\Debug\Gerenciar_Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\Atividade 3\Gerenciar_Tarefas\Gerenciar_Tarefas\obj\Debug\Gerenciar_Tarefas.exe
+C:\Users\mathe\Downloads\Atividade 3\Gerenciar_Tarefas\Gerenciar_Tarefas\obj\Debug\Gerenciar_Tarefas.pdb

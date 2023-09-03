@@ -1,0 +1,8 @@
+C:\Users\mathe\Downloads\ValidarAluno\ValidarAluno\bin\Debug\ValidarAluno.exe.config
+C:\Users\mathe\Downloads\ValidarAluno\ValidarAluno\bin\Debug\ValidarAluno.exe
+C:\Users\mathe\Downloads\ValidarAluno\ValidarAluno\bin\Debug\ValidarAluno.pdb
+C:\Users\mathe\Downloads\ValidarAluno\ValidarAluno\obj\Debug\ValidarAluno.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\ValidarAluno\ValidarAluno\obj\Debug\ValidarAluno.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\ValidarAluno\ValidarAluno\obj\Debug\ValidarAluno.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\ValidarAluno\ValidarAluno\obj\Debug\ValidarAluno.exe
+C:\Users\mathe\Downloads\ValidarAluno\ValidarAluno\obj\Debug\ValidarAluno.pdb

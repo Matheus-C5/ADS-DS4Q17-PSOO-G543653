@@ -1,0 +1,3 @@
+Na classe Tarefa, tem os atributos Nome, Data_Limite, Prioridade, Status e Nome_Pessoa, e o método Tarefa que será usado na outra classe chamada Gerenciar_Tarefas, que tem o atributo Tarefas do tipo lista, onde será criado uma lista de tarefas que será usado pelos métodos Criar_Tarefa, Listar_Tarefas, Editar_Tarefa e Remover_Tarefa. O Objeto criado será as novas tarefas fazendo instância da classe Tarefa.
+
+O Diagrama de Classes foi feito no Draw.io
